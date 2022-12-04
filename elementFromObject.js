@@ -58,3 +58,5 @@ window.elementFromObject = ({
   //     console.error(new Error().stack);
   //   }
   // };
+
+  console.warn("loaded window.elementFromObject");
